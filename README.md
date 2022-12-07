@@ -1,10 +1,10 @@
 ### Hola 👋
 
-#### Soy un Laravel Developer que vive Bogotá, Colombia.
+#### Soy un Laravel Developer en continúo aprendizaje.
 
 ##### Ahora
 
-- ✨ Creado mi sitio web y blog 
+- ✨ Creando mi sitio web y blog 
 - 👨‍👩‍👦‍👦 Apendiendo sobre multitenancy
 
 ##### Biografía
