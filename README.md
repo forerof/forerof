@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola 👋
 
-<!--
-**jyanezf/jyanezf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Soy un Laravel Developer en continuo aprendizaje que vive Bogotá, Colombia.
 
-Here are some ideas to get you started:
+##### Ahora
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Creado mi sitio web y blog 
+- 👨‍👩‍👦‍👦 Apendiendo sobre multitenancy
+
+##### Biografía
+
+- 🏢 Actualmente estudio en **Universidad Nacional de Colombia**
+- ⚙️ Uso a diario: `.php`, `.js`, `.html`, `.css`, `.svg`
+- 🌍 Estoy mayormente activo dentro de la **Comunidad de Laravel**
+- 🌱 Aprendiendo todo sobre **código abierto**
+- ⚡️ Dato curioso: soy un gran fan de Harry Potter
